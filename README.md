@@ -1,7 +1,5 @@
 # ECGT-Bio: Explainable Counterfactual Graph Transformer for Biomedical Discovery
 
-> **Status**: Research Prototype — Designed for publication in top-tier AI/ML venues (e.g., NeurIPS, ICLR, AAAI, ICML).
-
 ## 📌 Overview
 **ECGT-Bio** is a **novel AI framework** that fuses **graph neural networks**, **causal inference**, and **domain-specific knowledge** to enable *explainable, counterfactual reasoning* over **biomedical knowledge graphs**.
 
@@ -61,13 +59,17 @@ Evaluated on both **synthetic causal biomedical KGs** and **Hetionet** (real-wor
 
 ---
 
-## 📜 Citation
-bibtex
-@misc{ecgtbio2025,
-  title={ECGT-Bio: Explainable Counterfactual Graph Transformer for Biomedical Discovery},
-  author={Abhishek Yadav},
+## 📜 **Citation**
+
+If you use KC-GNN in your research:
+
+```bibtex
+@misc{kcgnn2025,
+  title={KC-GNN: Neuro-Symbolic and Causal-Invariant Graph Neural Networks for Drug Discovery},
+  author= {Abhishek Yadav},
   year={2025},
   howpublished={GitHub},
 }
+```
 ---
 
